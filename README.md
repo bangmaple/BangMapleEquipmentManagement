@@ -1,5 +1,5 @@
-# EquipmentManagementJavaWeb
-An equipment management web-based application that used J2EE technology and other techs.
+# BangMapleEquipmentManagement
+**An equipment management web-based application that used J2EE technology and other techs.**
 
 ------
 **
