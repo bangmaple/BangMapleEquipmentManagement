@@ -1,10 +1,10 @@
 # BangMapleEquipmentManagement
-##**An equipment management web-based application that used J2EE technology and other techs.**
+**##An equipment management web-based application that used J2EE technology and other techs.**
 
 ------
 ***Equipment management that used J2EE technology like JSP & Servlets and deployed on Apache Tomcat Servlet Container.***
 
-###**- Core Features:**
+**###- Core Features:**
 
 *- Using Java Persistence API (JPA) and EclipseLink as a persistence provider.*
 
@@ -36,8 +36,13 @@
 
 ---
 **This app is developed using the tools:**
+
 *- NetBeans IDE 11.3*
+
 *- Apache Tomcat 8.5.11*
+
 *- Java JDK 8*
+
 *- Apache Ant*
+
 ----
